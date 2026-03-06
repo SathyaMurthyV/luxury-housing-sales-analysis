@@ -8,11 +8,11 @@ This project analyzes a large housing dataset to uncover insights related to mar
 
 **Tech Used :**
 
-Python
-Pandas
-NumPy
-SQL
-Tableau
+Python ,
+Pandas ,
+NumPy , 
+SQL , 
+Tableau .
 
 **Dataset :**
 
@@ -81,5 +81,7 @@ Specific builders consistently outperform competitors in high-ticket property sa
 Luxury-Housing-Sales-Analysis
 │
 ├── Housing_Mini_Project.ipynb
+
 ├── Luxury Housing.twbx
+
 └── README.md
